@@ -1,4 +1,4 @@
-Smart call 😎 — here's your **ready-to-go `README.md`** for the **Bitcoin Transaction Network Analysis project**. It's written for clarity and professionalism, and will impress recruiters, reviewers, or teammates.
+
 
 # 💸 Bitcoin Transaction Network Analysis (Node.js)
 
