@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-transaction-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze and export Bitcoin transaction data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "random-generations": "^1.0.2"
+  }
+}
